@@ -1,0 +1,8 @@
+.vscode/settings.json
+
+backend/.mvn
+backend/target
+backend/mvnw
+backend/mvnw.cmd
+backend/HELP.md
+
